@@ -4,7 +4,7 @@ simple substitution cipher api. this api can encrypt and decrypt your data.
 # Install
 
 ```
-git clone git@github.com:man20820/substitution-chiper-api.git
+git clone git@github.com:man20820/substitution-cipher-api.git
 npm install
 cp .env.example .env # and set your port
 node index.js
